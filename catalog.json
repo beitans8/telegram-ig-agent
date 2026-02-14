@@ -1,0 +1,25 @@
+{
+  "services": [
+    {
+      "id": "rep_audit",
+      "name": "Reputation Audit",
+      "cost_usd": 0,
+      "sell_min_usd": 500,
+      "sell_max_usd": 1500,
+      "allowed": true
+    }
+  ],
+  "media_outlets": [
+    {
+      "id": "reuters_pr",
+      "name": "Reuters Press Release",
+      "cost_usd": 900,
+      "sell_min_usd": 1800,
+      "sell_max_usd": 2700,
+      "indexed": "Yes",
+      "do_follow": "No",
+      "sponsored": "Yes",
+      "allowed": true
+    }
+  ]
+}
